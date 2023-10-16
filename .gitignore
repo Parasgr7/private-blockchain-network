@@ -1,0 +1,5 @@
+/node1/geth/*
+/node2/geth/*
+
+*/.DS_Store
+/.DS_Store
